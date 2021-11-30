@@ -12,7 +12,7 @@
 	"content_scripts": [
 		{
 			"matches": [
-				"https://www.macmillanhighered.com/launchpad/*"
+				"https://www.macmillanhighered.com/BrainHoney/*"
 			],
 			"js": ["rp.js"]
 		}
